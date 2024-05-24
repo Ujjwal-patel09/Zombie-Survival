@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - handle
+  - redkey
+  - greenkey
+  - Bluekey
+  - yellowkey
+  - greykey
+  - Box
+  - Wall
+  - Door
+  - flash
+  - AKM
+  - bullet
+  - blood
+  - particles
+  - zombie2
+  - zombie3
+  - Gun_enemy
+  - AKM_flash
+  - Enemy_flash
+  - AKM_bullet
+  - Gun_bullet
+  - medic_Box
+  - Boss_flash
+  - Boss_circle_1
+  - Boss_circle_2
+  - rotate_point
+  - rotate_point1
+  - transformer
+  - Boss_bullet
+  - Machine_bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
